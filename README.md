@@ -67,7 +67,52 @@ Using Power query I was able to clean the dataset and make necesarry changes to 
 
 **Insight**
 
-![Global Superstores Insight](https://github.com/OLADOTUN29/Global-Superstores-Analysis/assets/146092893/79867741-ae47-4905-b6ba-e550da076812)
+![Global Superstores Insight](https://github.com/OLADOTUN29/Global-Superstores-Analysis/assets/146092893/79867741-ae47-4905-b6ba-e550da076812) 
+
+## Conclusion 
+
+Upon scrutinizing the dataset, it became evident that three countries generated the highest total profits. The United States secured the top spot with approximately $93,508, followed by India with around $48,808, and China with $46,794. Additionally, certain products exhibited outstanding sales performance in these countries:
+
+United States
+Canon imageCLASS 2200 Advanced Copier
+GBC DocuBind TL300 Electric Binding System
+Hewlett Packard LaserJet 3310 Copier
+India
+Cisco Smart Phone, with Caller ID
+Hamilton Beach Refrigerator, Red
+Sauder Classic Bookcase, Traditional
+China
+Bush Classic Bookcase, Mobile
+HP Copy Machine, Color
+Sauder Classic Bookcase, Metal
+
+In contrast, Nigeria experienced notably low total profits, amounting to -$23,285.19, indicating a loss rather than profit accumulation in 2014. This outcome was attributed to the operational dynamics of the business. The analysis revealed that the primary reasons behind the loss in 2014 were the combination of low shipping costs and a high discount percentage. While other countries refrained from offering discounts and maintained higher shipping rates, Nigeria provided a discount of $193 alongside a low shipping rate.
+
+The analysis of the global superstores' dataset indicates that in the United States, copiers, machines, and tables emerged as the top three subcategories with the highest average shipping fees, amounting to $165.29, $132.25, and $69.95, respectively.
+In Southeast Asia, encompassing countries such as Cambodia, Indonesia, Malaysia, Myanmar (Burma), the Philippines, Singapore, Thailand, and Vietnam, it was observed that the "Table" subcategory had the lowest profits. Specifically, the report highlights that Global Superstore experienced a significant loss of -$10,680.28 from its operations in Indonesia compared to other countries. Consequently, it is recommended to discontinue offering this subcategory to prevent further declines in profit.
+Concord, identified as the least profitable city in the United States, recorded only one order exceeding 10 orders and suffered a loss of -$1,862.31. This could be attributed to production costs or the procurement of products, resulting in reduced profit margins.
+
+Further insights gleaned from the dataset reveal that **Appliances** are the product subcategory with the highest average profit in Australia.
+
+Additionally, the dataset provides insights into the presence of highly valuable customers who have significantly contributed to the overall profit of Global Superstore and the type of product they purchased.
+
+Customer Name 	 
+
+Raymond Buch
+
+	            Canon imageCLASS 2200 Advanced Copier	$6,719.98
+             
+	            Hamilton Beach Stove, Red            	$759.26
+             
+Tamara Chand	
+
+	            Canon imageCLASS 2200 Advanced Copier	$8,399.98
+             
+	            Ibico Ibimaster 300 Manual Binding System	$331.19
+
+In summary, the analysis of the global superstore dataset offers valuable insights into shipping fees, discount rates, subcategory profitability, and the impact of certain factors on profit margins in different regions, as well as highlighting the significance of key customers in driving overall profitability for the company.
+
+
 
 
 
