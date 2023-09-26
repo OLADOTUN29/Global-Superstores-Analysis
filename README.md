@@ -59,7 +59,7 @@ Who are the most valuable customers and what do they purchase?
 Using Power query I was able to clean the dataset and make necesarry changes to data type of certain colunms that requires changing such:
 **sales** , **profit** , **shipping cost** , **orderdates** , **shippingdates** and **discount**
 
-### Visualization
+## Visualization
 
 **Dashboard**
 
