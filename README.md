@@ -2,6 +2,9 @@
 
 ## Global-Superstores-Analysis
 
+![front images](https://github.com/OLADOTUN29/Global-Superstores-Analysis/assets/146092893/459e2043-6d36-4fa7-932f-2d3fd0a15e75)
+
+
 ### Introdution
 
 This a Micorsoft Excel project analysis which provides insights into the findings within the **Global Superstore dataset**. This dataset reflects various occurrences related to an online retailer based in New York, which, in the year 2014, offered a diverse array of 10,000 products to customers in 147 different countries.The analysis covers a range of performance metrics, including identifying countries with the highest total profits, calculating average total profits, and assessing countries that underperformed among the 147 countries among other factors.
@@ -58,8 +61,13 @@ Using Power query I was able to clean the dataset and make necesarry changes to 
 
 ### Visualization
 
-![](Global Superstores Dashboard.png)
+**Dashboard**
 
+![Global Superstores Dashboard](https://github.com/OLADOTUN29/Global-Superstores-Analysis/assets/146092893/213b75f6-3fcc-4732-a6fe-f431375163db) 
+
+**Insight**
+
+![Global Superstores Insight](https://github.com/OLADOTUN29/Global-Superstores-Analysis/assets/146092893/79867741-ae47-4905-b6ba-e550da076812)
 
 
 
