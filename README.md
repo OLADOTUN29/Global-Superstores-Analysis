@@ -1,5 +1,7 @@
 # Global-Superstores-Analysis
 
+### by olafimihan oladotun usman
+
 ## Global-Superstores-Analysis
 
 ![front images](https://github.com/OLADOTUN29/Global-Superstores-Analysis/assets/146092893/459e2043-6d36-4fa7-932f-2d3fd0a15e75)
